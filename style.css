@@ -3,3 +3,45 @@ body {
   height: 100%;
   margin: 0;
 }
+/* Center the header text */
+header {
+  text-align: center;
+}
+
+/* Center the image */
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+/* Style the navbar links */
+nav a {
+  padding: 0 10px;
+  background-color: grey;
+}
+
+/* Center align the navbar links */
+nav {
+  text-align: center;
+}
+
+/* Style the image caption */
+.caption {
+  font-size: 0.8em;
+  text-align: center;
+}
+
+/* Style the text block */
+#featured-property p {
+  width: 800px;
+  margin: 10px auto;
+  text-align: center;
+}
+
+/* Style the details divs */
+#details div {
+  float: left;
+  width: 25%;
+  text-align: center;
+  background-color: lightgrey;
+}
